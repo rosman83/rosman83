@@ -6,5 +6,3 @@
 
 <a href="mailto:rashid.osman@vanderbilt.edu">[Email]</a>&nbsp;
 <a href="https://www.linkedin.com/in/rashidosman">[LinkedIn]</a>
-
-planned for the future: ![dart](https://img.shields.io/badge/rust-%230095D5.svg?style=flat-square&logo=rust&logoColor=white) ![dart](https://img.shields.io/badge/dart-%230095D5.svg?style=flat-square&logo=dart&logoColor=white)
