@@ -5,4 +5,3 @@
 </div>
 
 <a href="mailto:rashid.osman@vanderbilt.edu">[Email]</a>&nbsp;
-<a href="https://www.linkedin.com/in/rashidosman">[LinkedIn]</a>
